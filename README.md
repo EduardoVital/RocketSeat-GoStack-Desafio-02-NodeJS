@@ -1,1 +1,1 @@
-# RocketSeat-GoStack-Desafio-02-NodeJS
+# Sobre o desafio
