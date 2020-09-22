@@ -61,7 +61,7 @@ Para esse desafio temos os seguintes testes:
 - Clone o projeto
 
 ```sh
-git clone https://github.com/GiovaniMenegat/desafio01.git
+git clone https://github.com/EduardoVital/RocketSeat-GoStack-Desafio-02-NodeJS.git
 ```
 
 - Instalar as dependências
@@ -74,6 +74,11 @@ yarn
 
 ```sh
 yarn dev
+```
+- Iniciar testes
+
+```sh
+yarn test
 ```
 
 ## Tecnologias
